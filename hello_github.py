@@ -1,1 +1,2 @@
-tatituteto
+msg = "Hello, GitHub!"
+print(msg)
