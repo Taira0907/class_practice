@@ -1,1 +1,2 @@
-tatituteto
+msg = "Hello, World!"
+print(msg)
